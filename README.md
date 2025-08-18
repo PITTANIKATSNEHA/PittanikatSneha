@@ -41,3 +41,6 @@ Welcome to my GitHub profile! I'm a passionate data engineer with expertise in d
 
 ---
 ⭐️ From [Sneha Pittanikat](https://github.com/PITTANIKATSNEHA)
+
+![Views](https://views.whatilearened.today/views/github/PittanikatSneha/README.md.svg?cache=remove)
+
