@@ -1,21 +1,24 @@
 ## <img src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/wave-hello.gif" width="40px"> Hi there, I'm Sneha Pittanikat👩‍💻- Data Engineer at [Accenture](http://accenture.com/in-en) 🏢
 
+
+
+### Snowflake Developer | Passionate Data Engineer | Big Data Developer
+
+Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. I love diving into big data challenges and leveraging the latest technologies to extract actionable insights. My repositories showcase projects where I've optimized data pipelines, implemented ETL processes, and applied data science techniques. I'm constantly exploring new tools and frameworks to stay at the forefront of the rapidly evolving data engineering landscape. Let's connect and collaborate on exciting data-driven projects! 
+
 ### Data Engineer | SQL | Snowflake | Python | Azure | ETL | Data Warehousing  
-
-Welcome to my GitHub profile!  
-I’m a Data Engineer with 4 years of experience in building and supporting scalable data solutions.  
-My work involves SQL development, data pipelines, ETL workflows, and cloud-based solutions using Azure.  
-I enjoy solving data challenges, optimizing workflows, and exploring modern tools like Snowflake, CI/CD, and DevOps practices.  
-Currently learning **Pyspark & Generative AI** 🚀  
-
+### CV : [Download Sneha_Pittanikat_CV](https://docs.google.com/document/d/1pj0XlUJFYRmVUp5czGr4HMEIt37FzxrHA_SpLypJF7o/view)
 ---
 
 ### 🌟 My Skills & Tools  
 
-<img align="left" alt="SQL" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/MySQL.png"/>
 <img align="left" alt="Snowflake" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/snowflake.png"/>
+<img align="left" alt="SQL" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/MySQL.png"/>
 <img align="left" alt="Python" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/Python.png"/>
+<img align="left" alt="spark" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/Apache%20Spark.png"/>
+<img align="left" alt="Tableau" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/Tableau.png"/>
 <img align="left" alt="Azure" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/Azure.png"/>
+<img align="left" alt="Gitlab" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/GitLab.png"/>
 <img align="left" alt="GitHub" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/GitHub.png"/>
 
 
@@ -25,16 +28,16 @@ Currently learning **Pyspark & Generative AI** 🚀
 ---
 
 ### 📜 Certifications
-- Microsoft Azure Fundamentals (AZ-900)  
-- Microsoft Data Fundamentals (DP-900)  
+<a target="Microsoft Azure Fundamentals (AZ-900)" href="https://learn.microsoft.com/en-us/users/snehapittanikat-2463/transcript/764e3uoe3xn2oex?tab=tab-other"><img src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/AZ900.png" alt="Portfolio" width="350" height="220"></img></a>  <a target="Microsoft Data Fundamentals (DP-900)" href="https://learn.microsoft.com/en-us/users/snehapittanikat-2463/transcript/764e3uoe3xn2oex?tab=tab-other"><img src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/DP900.png" alt="Portfolio" width="350" height="220"></img></a>
+  
 
 ---
 
 ### 📫 Connect with me:
-[<img align="left" alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/your-linkedin/)
-[<img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/your-instagram/)
+<a target="Linkedin" href="https://www.linkedin.com/in/sneha-pittanikat/"><img src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/Linkedin.png" alt="Portfolio" width="200" height="200"></img></a>
+<br />
 
 <br/>
 
 ---
-⭐️ From [Sneha](https://github.com/PITTANIKATSNEHA)
+⭐️ From [Sneha Pittanikat](https://github.com/PITTANIKATSNEHA)
