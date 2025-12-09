@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a passionate data engineer with expertise in designing and implementing scalable data solutions. I love diving into big data challenges and leveraging the latest technologies to extract actionable insights. My repositories showcase projects where I've optimized data pipelines, implemented ETL processes, and applied data science techniques. I'm constantly exploring new tools and frameworks to stay at the forefront of the rapidly evolving data engineering landscape. Let's connect and collaborate on exciting data-driven projects! 
 
-### CV : [Download Sneha_Pittanikat_CV](https://docs.google.com/document/d/1pj0XlUJFYRmVUp5czGr4HMEIt37FzxrHA_SpLypJF7o/view)
+### CV : [Download Sneha_Pittanikat_CV](https://docs.google.com/document/d/1FkDwYAY3SYbE7RhCrTCluPBUIWDX-e1j/view)
 ---
 
 ### 🌟 My Skills & Tools  
