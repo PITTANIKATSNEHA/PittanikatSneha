@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a passionate data engineer with expertise in d
 <img align="left" alt="Azure" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/Azure.png"/>
 <img align="left" alt="Gitlab" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/GitLab.png"/>
 <img align="left" alt="GitHub" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/github.png"/>
+<img align="left" alt="GitHub" width="30px" src="https://github.com/PITTANIKATSNEHA/PittanikatSneha/blob/main/assets/databricklogo.png"/>
 
 
 <br/>
